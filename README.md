@@ -1,7 +1,8 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03/12/2024
+## Register Number:24005994
+## Name:K.Mohamed Althaf
+
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +11,34 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+1.Unified Alumni Platform : Centralized portal for alumni registration and profile management.It gives easy integration of both web and mobile platform.It provides dashboard for personalized updates on job openings,reunions,and donation campaigns.
+2.Alumni Directory with Search Filters : Search alumni  by graduation year,industry,or location.It provides interactive map showing alumni distribution worldwide.
+3.Events and Reunions Module : It is a calendar integration to notify alumni of upcoming events.It also provides RSVP system with integration of Google Calendar or Outlook.Provides Live streaming options for virtual participation.
+4.Pride and Recognition Module : It highlights alumni acheivements through dynamic posts on the platform.It is a voting system for recognizing outstanding alumni contributions.
+5.Data Analytics Dashboard : It gives Insights into alumni engagement metrics.It is a real-time reporting on donations,participation and feedback trends.
+6.Virtual Campus Tour : It recreates the alma mater digitally for alumni using VR/AR.It provides nostalgia-driven experience for alumni returning virtually.
+7.Dynamic Yearbooks : It create interactive yearbooks that alumni can update with their latest acheivements.It also includes photos,videos,and a timeline of accomplishments.It publishes both digital and print formats annually.
+8.Skill-Based Volunteering : This can be done by matching alumni with volunteer opportunities based on their skills and expertise.Track and reward participation in volunteering programs. 
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](../7dad5dd6-3fc8-4bf6-aa94-32238151cb0f.jpg)
 
 ## Use Cases
-
+![alt text](../bc612b11-b83a-47af-bc11-d7c82fc0740c.jpg)
 
 ## Technology Stack
-
+Frontend : React.js
+Backend : Node.js
+Database : MySQL
+Auth Providers : Firebase Authentication
+Google Analytics : Track user activity
 
 ## Dependencies
+Frontend frameworks : React.js
+Backend frameworks : Material-UI
+Database : MySQL
+Hosting : dotenv
+Real-time Notifications : Socket.io
+
+
 

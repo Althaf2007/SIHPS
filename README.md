@@ -21,10 +21,10 @@ Government of Gujarat
 8.Skill-Based Volunteering : This can be done by matching alumni with volunteer opportunities based on their skills and expertise.Track and reward participation in volunteering programs. 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](../7dad5dd6-3fc8-4bf6-aa94-32238151cb0f.jpg)
+![alt text](7dad5dd6-3fc8-4bf6-aa94-32238151cb0f.jpg)
 
 ## Use Cases
-![alt text](../bc612b11-b83a-47af-bc11-d7c82fc0740c.jpg)
+![alt text](bc612b11-b83a-47af-bc11-d7c82fc0740c.jpg)
 
 ## Technology Stack
 Frontend : React.js
